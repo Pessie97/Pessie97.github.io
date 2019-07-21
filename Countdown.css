@@ -1,10 +1,10 @@
 html{
-    /*background-image: linear-gradient(to right, red, orange, green, blue, purple);
-    background:  url(http://upload.wikimedia.org/wikipedia/commons/d/dd/Muybridge_race_horse_animated.gif) no-repeat center center fixed; 
+    background-image: linear-gradient(to right, blue, white, blue, white, blue, white);
+    /*background:  url(http://upload.wikimedia.org/wikipedia/commons/d/dd/Muybridge_race_horse_animated.gif) no-repeat center center fixed; 
   background-size: cover;
-      */
+      
     background: url(https://media.giphy.com/media/peAFQfg7Ol6IE/giphy.gif)
-        no-repeat center fixed;
+        no-repeat center fixed;*/
     background-size: cover;
     
 }
@@ -14,12 +14,12 @@ p {
   text-align: center;
   font-size: 60px;
   margin-top: 0px;
-    color:lightblue;
+    color:navy;
 }
 
 h1{
     text-align: center;
-    color:lightblue;
+    color:navy;
 }
 
 * {box-sizing: border-box;}
